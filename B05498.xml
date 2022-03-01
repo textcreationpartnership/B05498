@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation, anent ministers not praying for their Majesties, King William and Queen Mary.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05498</idno>
+            <idno type="STC">Wing S1636</idno>
+            <idno type="STC">ESTC R218141</idno>
+            <idno type="EEBO-CITATION">52528936</idno>
+            <idno type="OCLC">ocm 52528936</idno>
+            <idno type="VID">178989</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05498)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178989)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2775:60)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation, anent ministers not praying for their Majesties, King William and Queen Mary.</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Scotland. Sovereign (1689-1694 : William and Mary)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson, Printer to their most excellent Majesties,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Royal arms at head of text; initial letter.</note>
+                  <note>Dated at end: Given under our signet at Edinburgh, the twenty eighth day of April. And of Our Reign, the fourth year, 1692.</note>
+                  <note>Signed: Gilb. Eliot, Cls. Sti. Concilii.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Sovereign (1689-1694 : William and Mary)</term>
+               <term>Church of Scotland --  Customs and practices --  Early works to 1800.</term>
+               <term>Church and state --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:178989:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 20 -->
+            <head>
+               <figure>
+                  <head>
+                     <figure>
+                        <figDesc>monogram of 'W' (William) superimposed on 'M' (Mary)</figDesc>
+                     </figure> RR</head>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QUI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>A PROCLAMATION</head>
+            <head type="sub">
+               <hi>Anent Ministers not Praying for Their Majesties, King</hi> William <hi>and Queen</hi> Mary.</head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">W</seg>ILLIAM and MARY, by the Grace of GOD, King and Queen of <hi>Great-Britain, France<g ref="char:punc">▪</g>
+                  </hi> and <hi>Ireland,</hi> Defenders of the Faith;</signed>
+               <salute>To <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> Macers of Our Privy Council, Meſſengers at Arms, Our Sheriffs in that part, conjunctly and ſeverally, ſpecially conſtitute, Greeting:</salute>
+            </opener>
+            <p>Foraſmuch, as albeit by the Act of the Meeting of Eſtates of this Our Antient Kingdom, Dated the thirteenth Day of <hi>April,</hi> One thouſand ſix hundred and eighty nine, Our Leidges were Certified; not to owne; or acknowledge the late King <hi>James</hi> the Se<g ref="char:EOLhyphen"/>venth for their King, but that they and every one of them ſhould render their Dutiful Obedience to Us; and in particular, that all the Miniſters of the Goſpel within this Kingdom ſhould publick<g ref="char:EOLhyphen"/>ly Pray for Us, as King and Queen of this Realm, under the Pains and Certifications ſpecified in the ſaid Act: As alſo, We with Advice of Our Eſtates of Parliament, by Our Act of the twenty ſecond of <hi>July,</hi> One thouſand ſix hundred and ninety, Ordained the ſaid Act and Proclamation of the Eſtates of this Kingdom; to be put to further Execution, againſt all ſuch Miniſters; who had not given Obedience thereto, by Praying for Us, in manner mentioned in the ſaid Act; And that the Lords of Our Privy Council ſhould proceed therein, or impower other Magiſtrats to do the ſame within their reſpective bounds, as they ſhould ſee Cauſe; Yet nevertheleſs; the ſaids Acts have been ſo far from receiving the punctual and exact Obedience due to them. That many Preachers have either preſumed wholly to neglect Praying for Us, as King and Queen of this Realm, conform to the ſaids Acts, or at leaſt have ſo far teſtified a want of ingenuity and plainneſs required in a Duty of this Na<g ref="char:EOLhyphen"/>ture, that they make uſe of ſuch ambiguous and unclear Expreſſions in their Prayers, as the hearers cannot diſtinctly know they Pray for Us, to the great Diſparagement of the ſaids Laws, and contempt of our Authority. Therefore We, with Advice of the Lords of Our Privy Council, do ſtrictly Require and Command the Sheriffs of the ſeveral Shires, Baillies of Regalities, Stewarts of Stewartries, and Magiſtrats of the Burghs Royal of this Kingdom within their bounds, and Juriſdictions <hi>reſpective,</hi> to make due and exact tryal what Miniſters Preaching in Churches or Meeting-Houſes, within their reſpective bounds, Pray not ordinarly for Us, in ſuch circumſtantiat Terms, as their Hearers may diſtinctly know that they Pray for Us, as King and Queen of this Realm; And for that effect, We with Advice foreſaid, Hereby Require and Impower the ſeveral Magiſtrats reſpective foreſaids; To conveen and call before them ſuch perſons as they ſhall think fit, to give Information and Evidence againſt ſuch Miniſters Preaching in Churches or Meeting-Houſes, who fail in their Obedience to the Acts above-mentioned, in manner above ſet down, and that the ſaids Magiſtrats <hi>reſpective,</hi> Tranſmit under their Hands, to the Clerks of Our Privy Council, betwixt and the firſt day of <hi>June</hi> next to come, (for ſuch as are on this ſide of the Water of <hi>Tay,</hi> and the fifteenth day of the ſaid Month, for theſe on the other ſide thereof,) the Names of the ſeveral Miniſters offending in the Premiſſes, with the place of their reſidence, and the original Information and Evidence they have received and taken againſt them, To the Effect they may be proſecute with all rigor, and the Penalties and Certifications in the ſaids Laws contained, juſtly inflicted and exe<g ref="char:EOLhyphen"/>cute againſt them; With Certification to the ſaids reſpective Magiſtrats, who fail herein, they ſhall be repute as Connivers at, and Abettors of the ſaids Offenders, and negligent in the Execution and Performance of their Offices, and Duty committed to them, and pro<g ref="char:EOLhyphen"/>ſecute as ſuch accordingly. OUR WILL IS Herefore; and we Charge you ſtrictly and Command, that incontinent theſe Our Letters ſeen, ye paſs to the Mercat-Croſs of <hi>Edinburgh,</hi> and to the remanent Mercat-Croſſes of the Head-Burghs of the ſeveral Shires of this Our Antient Kingdom, and there, in Our Name and Authority, by open Proclamation, make intimation of the Premiſſes; And Ordains theſe Preſents to be Printed, and Publiſhed in manner foreſaid.</p>
+            <closer>
+               <dateline>Given under OUr Signet at <hi>Edinburgh,</hi> 
+                  <date>the twenty eighth day of <hi>April.</hi> And of Our Reign, the fourth Year, 1691.</date>
+               </dateline>
+               <signed>Per actum Dominorum Secreti Concilii. In Supplementum Signeti.
+<hi>GILB. ELIOT,</hi> Cls. Sti. Concilii.</signed>
+               <lb/>
+GOD Save King VVilliam and Queen Mary.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to Their moſt Excellent Majeſties, <hi>Anno DOM<g ref="char:punc">▪</g>
+               </hi> 1692.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
